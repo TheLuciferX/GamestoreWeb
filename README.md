@@ -12,7 +12,7 @@ Gamestore web is a web application, that utilizes oracle's glassfish server.
 
 ## Website Showcase
 
-<p>
+* <p>
   <img width="350px" align="right" src="https://github.com/TheLuciferX/GamestoreWeb/blob/master/gifs/registration.png">
   A registration form and login, to allow new users to create an account on the website.
   <br />
@@ -23,14 +23,14 @@ Gamestore web is a web application, that utilizes oracle's glassfish server.
   <br clear="right" />
 </p>
 
-<p>
+* <p>
   Blah blah blah.
   <br />
   <br />
   <img src="https://github.com/TheLuciferX/GamestoreWeb/blob/master/gifs/gallery.gif">
 </p>
 
-<p>
+* <p>
   An interactive web store, that allows users to to search and filter what they are looking for with advances search queries.
   <br />
   Upon clicking on a game, the user will be redirected to a page where more information about the game will be shown, in addition to a "Buy Now" button which will redirect the user to the page where they can buy the game.
