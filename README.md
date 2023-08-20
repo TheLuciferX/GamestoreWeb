@@ -11,3 +11,9 @@ Gamestore web is a web application, that utilizes oracle's glassfish server.
 * Supports user registration, and advanced search queries.
 
 ## Website Showcase
+
+<p>
+  <img width="350px" src="https://github.com/TheLuciferX/GamestoreWeb/blob/master/gifs/registration.png">
+  <img width="350px" src="https://github.com/TheLuciferX/GamestoreWeb/blob/master/gifs/login.png">
+  <br clear="right" />
+</p>
