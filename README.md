@@ -15,9 +15,10 @@ Gamestore web is a web application, that utilizes oracle's glassfish server.
 <p>
   <img width="350px" align="right" src="https://github.com/TheLuciferX/GamestoreWeb/blob/master/gifs/registration.png">
   A registration form and login, to allow new users to create an account on the website.
-  <br/>
+  <br />
   Users who are not logged into the website, do not have access to view the web store.
-  <br/>
+  <br />
+  <br />
   <img width="350px" src="https://github.com/TheLuciferX/GamestoreWeb/blob/master/gifs/login.png">
   <br clear="right" />
 </p>
