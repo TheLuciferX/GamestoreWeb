@@ -15,5 +15,5 @@ Gamestore web is a web application, that utilizes oracle's glassfish server.
 <p>
   <img width="350px" src="https://github.com/TheLuciferX/GamestoreWeb/blob/master/gifs/registration.png">
   <img width="350px" src="https://github.com/TheLuciferX/GamestoreWeb/blob/master/gifs/login.png">
-  <br clear="right" />
+  <br clear="left" />
 </p>
