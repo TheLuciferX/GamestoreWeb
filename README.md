@@ -31,7 +31,9 @@ Gamestore web is a web application, that utilizes oracle's glassfish server.
 </p>
 
 <p>
-  Blah blah blah.
+  An interactive web store, that allows users to to search and filter what they are looking for with advances search queries.
+  <br />
+  Upon clicking on a game, the user will be redirected to a page where more information about the game will be shown, in addition to a "Buy Now" button which will redirect the user to the page where they can buy the game.
   <br />
   <br />
   <img src="https://github.com/TheLuciferX/GamestoreWeb/blob/master/gifs/store.gif">
